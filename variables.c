@@ -12,7 +12,7 @@ int main(int argc, char * argv[]) {
 
     int i;
 
-    /*
+
     n = 5;
     c = 'g';
     d = 3.14;
@@ -21,7 +21,7 @@ int main(int argc, char * argv[]) {
     printf("c: %c\n", c);
     printf("d: %f\n", d);
 
-    /*
+
     printf("(char) n: %c\n", (char) n);
     printf("(int) d: %d\n", (int) d);
     printf("d (rounded): %.2f\n", d);
