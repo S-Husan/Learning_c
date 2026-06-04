@@ -26,14 +26,14 @@ int main(int argc, char * argv[]) {
     printf("(int) d: %d\n", (int) d);
     printf("d (rounded): %.2f\n", d);
 
-    /*
+    
     s_pointer = "seven";
 
-    /*
+    
     printf("s_pointer: %s\n", s_pointer);
     printf("%c %c %c %c %c\n", s_pointer[0], s_pointer[1], s_pointer[2], s_pointer[3], s_pointer[4]);
 
-    /*
+    
     s_pointer = "long sentence";
     // s_array = "long sentence"; causes an error
     for (i = 0; i < 10; i++) {
